@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Power BI temporary files
+*.pbix.autorecovery
