@@ -1,4 +1,4 @@
-Token Analytics & AI ROI Analysis
+**Token Analytics & AI ROI Analysis**
 
 Project Overview
 
