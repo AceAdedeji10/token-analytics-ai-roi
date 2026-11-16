@@ -167,16 +167,16 @@ This is an independent portfolio project using fictional business scenarios and 
 ## Report Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](reports/01_Executive_Overview.png)
+![Executive Overview](reports/01_Executive_Overview.png.png)
 
 ### 2. Departmental Analysis
-![Departmental Analysis](reports/02_Departmental_Analysis.png)
+![Departmental Analysis](reports/02_Departmental_Analysis.png.png)
 
 ### 3. AI Usage & Cost Analysis
-![AI Usage & Cost Analysis](reports/03_AI_Usage_Cost_Analysis.png)
+![AI Usage & Cost Analysis](reports/03_AI_Usage_Cost_Analysis.png.png)
 
 ### 4. Workforce & Productivity
-![Workforce & Productivity](reports/04_Workforce_Productivity.png)
+![Workforce & Productivity](reports/04_Workforce_Productivity.png.png)
 
 ### 5. Methodology & Insights
-![Methodology & Insights](reports/05_Methodology_Insights.png)
+![Methodology & Insights](reports/05_Methodology_Insights.png.png)
